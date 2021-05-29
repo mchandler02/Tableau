@@ -1,0 +1,24 @@
+Longest Median Duration:
+
+>The station with the longest median durations used as a starting station is 10Ave & W 202 St. The range of the top 10 
+starting stations is from 26.8 to 34.8 minutes .
+This could indicate that most starting station locations are used only for short trips for errands like getting lunch or 
+stopping at the store.
+
+>The station with the longest median durations used as an ending station is Hoboken Terminal-River St & Hudson Pl. The 
+range of the top 10 ending stations is from 62.2 minutes to 27.8 hours.
+This could indicate that those who use these end stations take the bikes for a full day's commute or to get locations after 
+other methods of transportation may be unavailble.
+
+
+Week Day Usage:
+
+>The number of bike rentals markedly decreased in April 2020 compared to the previous and latter years. 
+This is likely due to the COVID-19 pandemic resulting in fewer people traveling for work or pleasure.
+There is not a strong pattern over the past three years of a certain day of the week in April that is going to result in 
+more bike rentals, but in the past two years, Saturdays have been the most popular.
+
+>Despite the number of bike rentals decreasing in April 2020, the trip duration increased that month compared to 2019 and 2021. 
+This could be a result of people using the bikes as a safe outdoor leisure and excercise activity rather than as a commuting option.
+Each year shows that Saturdays and Sundays are the days that have the longest trip duration. 
+Again, this is likely a result of people using the bikes for leisure activities rather than commuting.
